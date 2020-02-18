@@ -1,0 +1,23 @@
+ Description of each Columns
+
+entry_id             = user_id
+age                  = age of the applicant
+pay_schedule         = how often the applicant gets paid:
+home_owner           = if the user is owner of home, 1-yes, 0-no
+income               = the user income 
+months_employed      = how many months the user working in the current job
+years_employed       = how many years the user working in the current job
+current_address_year = how many tears the user live in the current address
+personal_account_m   = how many months the user has personal account
+personal_account_y   = how many years the user has personal account 
+has_debt             = whether the user had any debt
+amount_requested     = what amount money the user applied for
+risk_score           = risks scores from the finance
+risk_score_2         = risks scores from the finance
+risk_score_3         = risks scores from the finance
+risk_score_4         = risks scores from the finance
+risk_score_5         = risks scores from the finance
+ext_quality_score    = scores from the marketplace
+ext_quality_score_2  = scores from the marketplace
+inquires_last_month  = how many inquires had the user last month
+e_signed             = response variable, 1-the user completed e-signing process and 0-didn't
